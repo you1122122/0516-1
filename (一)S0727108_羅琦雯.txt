@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zt-TW"
+<head>
+<title>表格練習1</title>
+<meat charset="utf-8">
+</head>
+
+<body>
+
+<table border=1>
+
+<caption>期中成績</caption>
+
+<tr><th>名次</th><th>姓名</th><th>平均</th><tr>
+
+<tr><td>1st</td><td>羅琦雯</td><td>100</td></tr>
+<tr><td>2nd</td><td>羅小踢</td><td>98</td></tr>
+<tr><td>3rd</td><td>羅白白</td><td>95</td></tr>
+<tr><td>4th</td><td>羅逼波</td><td>95</td></tr>
+</table>
+</body>
+</html>
+
+
+
+
+
